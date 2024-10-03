@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo================================================================================================================================FrontEnd Developer -Student of Bachelor's Degree in Information Systems-----------------------------------------------------------------------I am a guy passionate about coding and learning. The branch that attracts me the most is the frontend, being able to see in real time the changes and spend time on small details is what I like the most.* 🌍  I'm based in Mendoza, Argentina* ✉️  You can contact me at [leocangialosi04@gmail.com](mailto:leocangialosi04@gmail.com)* 🧠  I'm learning Javascript / React
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo👋
+
+FrontEnd Developer -Student of Bachelor's Degree in Information Systems
+
+I am a guy passionate about coding and learning. The branch that attracts me the most is the frontend, being able to see in real time the changes and spend time on small details is what I like the most.* 🌍  I'm based in Mendoza, Argentina* ✉️  You can contact me at [leocangialosi04@gmail.com](mailto:leocangialosi04@gmail.com)* 🧠  I'm learning Javascript / React
 
 ### Skills
 
